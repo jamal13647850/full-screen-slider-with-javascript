@@ -1,0 +1,20 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.slider {
+    width: 100%;
+    height: 100vh;
+}
+
+.slider .image {
+    width: inherit;
+    height: inherit;
+}
+
+.slider .image img {
+    width: inherit;
+    height: inherit;
+}
